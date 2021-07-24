@@ -1,0 +1,63 @@
+Metadata-Version: 2.1
+Name: kbtcal
+Version: 1.2
+Summary: This is a simple library that performs basic python arithmetic operations.
+Home-page: UNKNOWN
+Author: Kenneth Broni
+Author-email: kbroni123@gmail.com
+License: MIT
+Description: This is a simple library that performs
+        basic python arithmetic operations.
+        
+        ## Installation
+        ```
+        pip install kbtcal
+        
+        ```
+        
+        ## Usage:
+        A guide to using the add_numbers function is as follows
+        
+        ```
+        import kbtcal
+        add_num = kbtcal.add_numbers(3, 7) # where 3 and 7 are the number you want to add
+        print(add_num)
+        
+        ```
+        The functions in this library are:
+        1. add_numbers
+        2. subtract_numbers
+        3. multiply_numbers 
+        4. divide_numbers_float 
+        5. divide_numbers_floor
+        6. power_numbers
+        7. mode_numbers
+        
+        ## Video Usage Guide
+        A video usage guide is provided via this link [YouTube Link](https://www.youtube.com/channel/UCsI1eKRkwDGKwBgwTD6_hnQ)
+        
+        ## License
+        Copyright 2021 KenBroTech
+        
+        This repository is licensed under MIT license.
+        See LICENSE for details.
+        
+        
+        Change Log
+        ==========
+        
+        1.2 (24/07/2021)
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
