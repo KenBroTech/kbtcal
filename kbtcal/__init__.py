@@ -31,3 +31,5 @@ def power_numbers(num1, num2):
 def mode_numbers(num1, num2):
     results = num1 % num2
     return f'Mode is: {results}'
+
+fruits = ['Apple', 'Mango']
